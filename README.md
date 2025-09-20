@@ -1,0 +1,2 @@
+# .github
+AIni Pay
