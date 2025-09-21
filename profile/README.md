@@ -1,7 +1,7 @@
 # 🤖 AIni Pay - Chatbot para Transacciones Multi-Chain
 
 <div align="center">
-  <img src="./assets/images/logo/AIniPay_Logo.png" alt="AIni Pay Logo" width="200"/>
+  <img src="../assets/images/logo/AIniPay_Logo.png" alt="AIni Pay Logo" width="200"/>
   
   [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
   [![Project Status](https://img.shields.io/badge/Status-Production%20Ready-green.svg)]()
@@ -45,21 +45,6 @@ AIni Pay democratiza las transacciones blockchain mediante:
 ---
 
 ## 🏗️ Arquitectura del Sistema
-
-## 🏗️ Arquitectura Multi-Chain
-
-<div align="center">
-
-```
-🤖 Comando IA → 🔍 Parser → 🌐 Detección Red → 💳 Wallet → ⛓️ Blockchain
-     │              │           │                │          │
-     │              │           ├─ EVM (Sonic)   │          ├─ Smart Contract
-     │              │           └─ Cosmos        │          └─ P2P Transfer
-     │              └─ DeepSeek AI                └─ MetaMask/Keplr
-     └─ Lenguaje Natural
-```
-
-</div>
 
 ### � Diagrama de Arquitectura
 
@@ -255,19 +240,19 @@ Entrada Usuario → Parser IA → Validación → Detección Red → Wallet → 
   <table>
     <tr>
       <td align="center">
-        <img src="./assets/images/team/yamil.jpg" width="100px" alt="Yamil Navia"/><br />
+        <img src="../assets/images/team/yamil.jpg" width="100px" alt="Yamil Navia"/><br />
         <sub><b>Yamil Navia</b></sub><br />
         <sub>Blockchain Developer</sub><br />
         <sub>Solidity | Rust | Smart Contracts</sub>
       </td>
       <td align="center">
-        <img src="./assets/images/team/omar.jpg" width="100px" alt="Omar Quispe"/><br />
+        <img src="../assets/images/team/omar.jpg" width="100px" alt="Omar Quispe"/><br />
         <sub><b>Omar Quispe</b></sub><br />
         <sub>AI Developer</sub><br />
         <sub>Agentes Inteligentes | NLP</sub>
       </td>
       <td align="center">
-        <img src="./assets/images/team/jhamil.jpg" width="100px" alt="Jhamil Mamani"/><br />
+        <img src="../assets/images/team/jhamil.jpg" width="100px" alt="Jhamil Mamani"/><br />
         <sub><b>Jhamil Mamani</b></sub><br />
         <sub>Frontend Developer</sub><br />
         <sub>React | Tailwind | UI/UX</sub>
